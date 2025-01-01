@@ -8,5 +8,6 @@ Microsoft Azure (Virtual Machines/Compute), Remote Desktop, Internet Information
 3. Working the Issue
 4. Resolution
 # Lifecycle Stages
-Intake
+1. Intake
 User Ken creates a ticket:
+<img width="848" alt="Screen Shot 2024-12-31 at 7 45 12 PM" src="https://github.com/user-attachments/assets/4b956ccb-e62f-4e7f-937b-5872bc44b76c" />
