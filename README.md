@@ -12,10 +12,13 @@ Microsoft Azure (Virtual Machines/Compute), Remote Desktop, Internet Information
 User Ken creates a ticket:
 <img width="848" alt="Screen Shot 2024-12-31 at 7 45 12 PM" src="https://github.com/user-attachments/assets/4b956ccb-e62f-4e7f-937b-5872bc44b76c" />
 
+
 Ticket Assignment
 
 
 Support agent John Doe logs in.
+
+
 <img width="674" alt="Screen Shot 2024-12-31 at 7 48 49 PM" src="https://github.com/user-attachments/assets/4807ee76-88c1-4e8d-aa7c-4e0268cad8f0" />
 
 # Communication
