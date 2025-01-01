@@ -7,3 +7,6 @@ Microsoft Azure (Virtual Machines/Compute), Remote Desktop, Internet Information
 2. Assignment and Communication
 3. Working the Issue
 4. Resolution
+# Lifecycle Stages
+Intake
+User Ken creates a ticket:
